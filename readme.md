@@ -1,4 +1,14 @@
-### npm install
+### 安装 
+```
+npm install
+```
 
+###  运行 
+```
+npm start
+```
 
-### npm start
+### 打开浏览器 
+```
+http://localhost:8080
+```
